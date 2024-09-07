@@ -1,0 +1,948 @@
+Uri: https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/sora/v12/xMQOuFFYT72X5wkB_18qmnndmScMnn-K.ttf
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\s\sora\v12\xMQOuFFYT72X5wkB_18qmnndmScMnn-K.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sora/v12/xMQOuFFYT72X5wkB_18qmnndmSdgnn-K.ttf
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\s\sora\v12\xMQOuFFYT72X5wkB_18qmnndmSdgnn-K.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sora/v12/xMQOuFFYT72X5wkB_18qmnndmSdSn3-K.ttf
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\s\sora\v12\xMQOuFFYT72X5wkB_18qmnndmSdSn3-K.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sora/v12/xMQOuFFYT72X5wkB_18qmnndmSdSnn-K.ttf
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\s\sora\v12\xMQOuFFYT72X5wkB_18qmnndmSdSnn-K.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sora/v12/xMQOuFFYT72X5wkB_18qmnndmSe1mX-K.ttf
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\s\sora\v12\xMQOuFFYT72X5wkB_18qmnndmSe1mX-K.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sora/v12/xMQOuFFYT72X5wkB_18qmnndmSeMmX-K.ttf
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\s\sora\v12\xMQOuFFYT72X5wkB_18qmnndmSeMmX-K.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sora/v12/xMQOuFFYT72X5wkB_18qmnndmSfSmX-K.ttf
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\s\sora\v12\xMQOuFFYT72X5wkB_18qmnndmSfSmX-K.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sora/v12/xMQOuFFYT72X5wkB_18qmnndmSfSnn-K.ttf
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\s\sora\v12\xMQOuFFYT72X5wkB_18qmnndmSfSnn-K.ttf
+Content Type: font/ttf
+
+Uri: https://optechanimation1.netlify.app/
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\index.htm
+Content Type: text/html
+
+Uri: https://optechanimation1.netlify.app/about-us
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\about-us.html
+Content Type: text/html
+
+Uri: https://optechanimation1.netlify.app/assets/css/aos.css
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\css\aos.css
+Content Type: text/css
+
+Uri: https://optechanimation1.netlify.app/assets/css/app.min.css
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\css\app.min.css
+Content Type: text/css
+
+Uri: https://optechanimation1.netlify.app/assets/css/bootstrap.min.css
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://optechanimation1.netlify.app/assets/css/fontawesome.css
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\css\fontawesome.css
+Content Type: text/css
+
+Uri: https://optechanimation1.netlify.app/assets/css/magnific-popup.css
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://optechanimation1.netlify.app/assets/css/main.css
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\css\main.css
+Content Type: text/css
+
+Uri: https://optechanimation1.netlify.app/assets/css/remixicon.css
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\css\remixicon.css
+Content Type: text/css
+
+Uri: https://optechanimation1.netlify.app/assets/css/slick.css
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\css\slick.css
+Content Type: text/css
+
+Uri: https://optechanimation1.netlify.app/assets/fonts/fa-brands-400.eot
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\fonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://optechanimation1.netlify.app/assets/fonts/fa-brands-400.eot?
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\fonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://optechanimation1.netlify.app/assets/fonts/fa-brands-400.svg
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\fonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://optechanimation1.netlify.app/assets/fonts/fa-brands-400.ttf
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\fonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://optechanimation1.netlify.app/assets/fonts/fa-brands-400.woff
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\fonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://optechanimation1.netlify.app/assets/fonts/fa-brands-400.woff2
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://optechanimation1.netlify.app/assets/fonts/fa-regular-400.eot
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\fonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://optechanimation1.netlify.app/assets/fonts/fa-regular-400.eot?
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\fonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://optechanimation1.netlify.app/assets/fonts/fa-regular-400.svg
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\fonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://optechanimation1.netlify.app/assets/fonts/fa-regular-400.ttf
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\fonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://optechanimation1.netlify.app/assets/fonts/fa-regular-400.woff
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\fonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://optechanimation1.netlify.app/assets/fonts/fa-regular-400.woff2
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://optechanimation1.netlify.app/assets/fonts/fa-solid-900.eot
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\fonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://optechanimation1.netlify.app/assets/fonts/fa-solid-900.eot?
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\fonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://optechanimation1.netlify.app/assets/fonts/fa-solid-900.svg
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\fonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://optechanimation1.netlify.app/assets/fonts/fa-solid-900.ttf
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\fonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://optechanimation1.netlify.app/assets/fonts/fa-solid-900.woff
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\fonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://optechanimation1.netlify.app/assets/fonts/fa-solid-900.woff2
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://optechanimation1.netlify.app/assets/fonts/remixicon.eot?t=1720054838745
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\fonts\remixicon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://optechanimation1.netlify.app/assets/fonts/remixicon.svg?t=1720054838745
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\fonts\remixicon.svg
+Content Type: image/svg+xml
+
+Uri: https://optechanimation1.netlify.app/assets/fonts/remixicon.ttf?t=1720054838745
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\fonts\remixicon.ttf
+Content Type: font/ttf
+
+Uri: https://optechanimation1.netlify.app/assets/fonts/remixicon.woff2?t=1720054838745
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\fonts\remixicon.woff2
+Content Type: font/woff2
+
+Uri: https://optechanimation1.netlify.app/assets/fonts/remixicon.woff?t=1720054838745
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\fonts\remixicon.woff
+Content Type: application/font-woff
+
+Uri: https://optechanimation1.netlify.app/assets/images/blog/b-d-thumb1.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\blog\b-d-thumb1.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/blog/b-d-thumb2.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\blog\b-d-thumb2.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/blog/blog-single.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\blog\blog-single.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/blog/blog1.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\blog\blog1.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/blog/blog10.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\blog\blog10.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/blog/blog11.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\blog\blog11.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/blog/blog12.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\blog\blog12.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/blog/blog13.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\blog\blog13.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/blog/blog14.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\blog\blog14.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/blog/blog15.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\blog\blog15.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/blog/blog16.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\blog\blog16.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/blog/blog17.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\blog\blog17.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/blog/blog18.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\blog\blog18.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/blog/blog2.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\blog\blog2.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/blog/blog3.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\blog\blog3.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/blog/blog4.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\blog\blog4.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/blog/blog5.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\blog\blog5.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/blog/blog6.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\blog\blog6.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/blog/blog7.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\blog\blog7.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/blog/blog8.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\blog\blog8.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/blog/blog9.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\blog\blog9.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/blog/quote.svg
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\blog\quote.svg
+Content Type: image/svg+xml
+
+Uri: https://optechanimation1.netlify.app/assets/images/blog/recent-post1.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\blog\recent-post1.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/blog/recent-post2.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\blog\recent-post2.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/blog/recent-post3.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\blog\recent-post3.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/brand/brand01.svg
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\brand\brand01.svg
+Content Type: image/svg+xml
+
+Uri: https://optechanimation1.netlify.app/assets/images/brand/brand02.svg
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\brand\brand02.svg
+Content Type: image/svg+xml
+
+Uri: https://optechanimation1.netlify.app/assets/images/brand/brand03.svg
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\brand\brand03.svg
+Content Type: image/svg+xml
+
+Uri: https://optechanimation1.netlify.app/assets/images/brand/brand04.svg
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\brand\brand04.svg
+Content Type: image/svg+xml
+
+Uri: https://optechanimation1.netlify.app/assets/images/brand/brand05.svg
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\brand\brand05.svg
+Content Type: image/svg+xml
+
+Uri: https://optechanimation1.netlify.app/assets/images/brand/brand1.svg
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\brand\brand1.svg
+Content Type: image/svg+xml
+
+Uri: https://optechanimation1.netlify.app/assets/images/brand/brand2.svg
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\brand\brand2.svg
+Content Type: image/svg+xml
+
+Uri: https://optechanimation1.netlify.app/assets/images/brand/brand3.svg
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\brand\brand3.svg
+Content Type: image/svg+xml
+
+Uri: https://optechanimation1.netlify.app/assets/images/brand/brand4.svg
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\brand\brand4.svg
+Content Type: image/svg+xml
+
+Uri: https://optechanimation1.netlify.app/assets/images/brand/brand5.svg
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\brand\brand5.svg
+Content Type: image/svg+xml
+
+Uri: https://optechanimation1.netlify.app/assets/images/breadcrumb/breadcrumb.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\breadcrumb\breadcrumb.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/breadcrumb/errors404.svg
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\breadcrumb\errors404.svg
+Content Type: image/svg+xml
+
+Uri: https://optechanimation1.netlify.app/assets/images/breadcrumb/mark!.svg
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\breadcrumb\mark!.svg
+Content Type: image/svg+xml
+
+Uri: https://optechanimation1.netlify.app/assets/images/cta/cta-bg2.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\cta\cta-bg2.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/cta/cta-bg3.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\cta\cta-bg3.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/cta/cta.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\cta\cta.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/favicon.ico
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://optechanimation1.netlify.app/assets/images/hero/bg1.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\hero\bg1.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/hero/bg2.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\hero\bg2.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/hero/bg3.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\hero\bg3.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/hero/bg4.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\hero\bg4.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/hero/hero-bg1.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\hero\hero-bg1.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/hero/hero-bg2.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\hero\hero-bg2.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/hero/hero-bg3.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\hero\hero-bg3.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/hero/hero-bg4.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\hero\hero-bg4.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/hero/hero-thumb1.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\hero\hero-thumb1.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/hero/hero-thumb2.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\hero\hero-thumb2.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/hero/hero-thumb3.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\hero\hero-thumb3.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/hero/overlay.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\hero\overlay.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/hero/power.svg
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\hero\power.svg
+Content Type: image/svg+xml
+
+Uri: https://optechanimation1.netlify.app/assets/images/iconbox/icon1.svg
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\iconbox\icon1.svg
+Content Type: image/svg+xml
+
+Uri: https://optechanimation1.netlify.app/assets/images/iconbox/icon10.svg
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\iconbox\icon10.svg
+Content Type: image/svg+xml
+
+Uri: https://optechanimation1.netlify.app/assets/images/iconbox/icon11.svg
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\iconbox\icon11.svg
+Content Type: image/svg+xml
+
+Uri: https://optechanimation1.netlify.app/assets/images/iconbox/icon12.svg
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\iconbox\icon12.svg
+Content Type: image/svg+xml
+
+Uri: https://optechanimation1.netlify.app/assets/images/iconbox/icon2.svg
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\iconbox\icon2.svg
+Content Type: image/svg+xml
+
+Uri: https://optechanimation1.netlify.app/assets/images/iconbox/icon3.svg
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\iconbox\icon3.svg
+Content Type: image/svg+xml
+
+Uri: https://optechanimation1.netlify.app/assets/images/iconbox/icon4.svg
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\iconbox\icon4.svg
+Content Type: image/svg+xml
+
+Uri: https://optechanimation1.netlify.app/assets/images/iconbox/icon5.svg
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\iconbox\icon5.svg
+Content Type: image/svg+xml
+
+Uri: https://optechanimation1.netlify.app/assets/images/iconbox/icon6.svg
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\iconbox\icon6.svg
+Content Type: image/svg+xml
+
+Uri: https://optechanimation1.netlify.app/assets/images/iconbox/icon7.svg
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\iconbox\icon7.svg
+Content Type: image/svg+xml
+
+Uri: https://optechanimation1.netlify.app/assets/images/iconbox/icon8.svg
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\iconbox\icon8.svg
+Content Type: image/svg+xml
+
+Uri: https://optechanimation1.netlify.app/assets/images/iconbox/icon9.svg
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\iconbox\icon9.svg
+Content Type: image/svg+xml
+
+Uri: https://optechanimation1.netlify.app/assets/images/logo/logo-dark.svg
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\logo\logo-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://optechanimation1.netlify.app/assets/images/logo/logo-white.svg
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\logo\logo-white.svg
+Content Type: image/svg+xml
+
+Uri: https://optechanimation1.netlify.app/assets/images/p1/p1.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\p1\p1.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/p1/p10.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\p1\p10.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/p1/p2.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\p1\p2.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/p1/p3.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\p1\p3.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/p1/p4.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\p1\p4.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/p1/p5.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\p1\p5.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/p1/p6.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\p1\p6.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/p1/p7.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\p1\p7.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/p1/p8.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\p1\p8.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/p1/p9.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\p1\p9.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/p1/p_details.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\p1\p_details.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/p2/p1.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\p2\p1.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/p2/p2.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\p2\p2.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/p2/p3.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\p2\p3.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/p2/p4.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\p2\p4.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/p2/p5.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\p2\p5.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/p2/p6.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\p2\p6.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/p2/p7.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\p2\p7.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/p2/p8.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\p2\p8.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/p2/p9.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\p2\p9.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/service/bg.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\service\bg.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/service/icon.svg
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\service\icon.svg
+Content Type: image/svg+xml
+
+Uri: https://optechanimation1.netlify.app/assets/images/service/service-deatils.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\service\service-deatils.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/shape/shape1.svg
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\shape\shape1.svg
+Content Type: image/svg+xml
+
+Uri: https://optechanimation1.netlify.app/assets/images/shape/shape2.svg
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\shape\shape2.svg
+Content Type: image/svg+xml
+
+Uri: https://optechanimation1.netlify.app/assets/images/shape/shape3.svg
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\shape\shape3.svg
+Content Type: image/svg+xml
+
+Uri: https://optechanimation1.netlify.app/assets/images/shape/shape4.svg
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\shape\shape4.svg
+Content Type: image/svg+xml
+
+Uri: https://optechanimation1.netlify.app/assets/images/shop/shop.svg
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\shop\shop.svg
+Content Type: image/svg+xml
+
+Uri: https://optechanimation1.netlify.app/assets/images/shop/shop01.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\shop\shop01.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/shop/shop10.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\shop\shop10.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/shop/shop11.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\shop\shop11.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/shop/shop12.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\shop\shop12.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/shop/shop2.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\shop\shop2.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/shop/shop3.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\shop\shop3.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/shop/shop4.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\shop\shop4.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/shop/shop5.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\shop\shop5.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/shop/shop6.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\shop\shop6.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/shop/shop7.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\shop\shop7.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/shop/shop8.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\shop\shop8.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/shop/shop9.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\shop\shop9.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/team/team-details.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\team\team-details.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/team/team1.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\team\team1.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/team/team2.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\team\team2.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/team/team3.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\team\team3.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/team/team4.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\team\team4.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/team/team5.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\team\team5.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/team/team6.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\team\team6.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/team/team7.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\team\team7.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/team/team8.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\team\team8.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/v1/quote.svg
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\v1\quote.svg
+Content Type: image/svg+xml
+
+Uri: https://optechanimation1.netlify.app/assets/images/v1/rating.svg
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\v1\rating.svg
+Content Type: image/svg+xml
+
+Uri: https://optechanimation1.netlify.app/assets/images/v1/thumb1.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\v1\thumb1.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/v1/thumb2.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\v1\thumb2.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/v1/thumb3.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\v1\thumb3.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/v1/thumb4.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\v1\thumb4.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/v2/counter-bg.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\v2\counter-bg.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/v2/icon1.svg
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\v2\icon1.svg
+Content Type: image/svg+xml
+
+Uri: https://optechanimation1.netlify.app/assets/images/v2/icon2.svg
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\v2\icon2.svg
+Content Type: image/svg+xml
+
+Uri: https://optechanimation1.netlify.app/assets/images/v2/icon3.svg
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\v2\icon3.svg
+Content Type: image/svg+xml
+
+Uri: https://optechanimation1.netlify.app/assets/images/v2/icon4.svg
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\v2\icon4.svg
+Content Type: image/svg+xml
+
+Uri: https://optechanimation1.netlify.app/assets/images/v2/illustration1.svg
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\v2\illustration1.svg
+Content Type: image/svg+xml
+
+Uri: https://optechanimation1.netlify.app/assets/images/v2/illustration2.svg
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\v2\illustration2.svg
+Content Type: image/svg+xml
+
+Uri: https://optechanimation1.netlify.app/assets/images/v2/illustration3.svg
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\v2\illustration3.svg
+Content Type: image/svg+xml
+
+Uri: https://optechanimation1.netlify.app/assets/images/v2/line.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\v2\line.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/v2/thumb1.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\v2\thumb1.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/v2/thumb2.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\v2\thumb2.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/v3/icon1.svg
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\v3\icon1.svg
+Content Type: image/svg+xml
+
+Uri: https://optechanimation1.netlify.app/assets/images/v3/icon2.svg
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\v3\icon2.svg
+Content Type: image/svg+xml
+
+Uri: https://optechanimation1.netlify.app/assets/images/v3/icon3.svg
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\v3\icon3.svg
+Content Type: image/svg+xml
+
+Uri: https://optechanimation1.netlify.app/assets/images/v3/icon4.svg
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\v3\icon4.svg
+Content Type: image/svg+xml
+
+Uri: https://optechanimation1.netlify.app/assets/images/v3/service1.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\v3\service1.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/v3/service2.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\v3\service2.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/v3/service3.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\v3\service3.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/v3/service4.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\v3\service4.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/v3/thumb1.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\v3\thumb1.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/v3/thumb2.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\v3\thumb2.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/v3/thumb3.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\v3\thumb3.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/v3/thumb4.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\v3\thumb4.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/v5/icon1.svg
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\v5\icon1.svg
+Content Type: image/svg+xml
+
+Uri: https://optechanimation1.netlify.app/assets/images/v5/icon2.svg
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\v5\icon2.svg
+Content Type: image/svg+xml
+
+Uri: https://optechanimation1.netlify.app/assets/images/v5/icon3.svg
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\v5\icon3.svg
+Content Type: image/svg+xml
+
+Uri: https://optechanimation1.netlify.app/assets/images/v5/icon4.svg
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\v5\icon4.svg
+Content Type: image/svg+xml
+
+Uri: https://optechanimation1.netlify.app/assets/images/v8/thumb1.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\v8\thumb1.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/images/v8/thumb2.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\v8\thumb2.png
+Content Type: image/png
+
+Uri: https://optechanimation1.netlify.app/assets/js/aos.js
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\js\aos.js
+Content Type: application/javascript
+
+Uri: https://optechanimation1.netlify.app/assets/js/app.js
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\js\app.js
+Content Type: application/javascript
+
+Uri: https://optechanimation1.netlify.app/assets/js/bootstrap.bundle.min.js
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://optechanimation1.netlify.app/assets/js/countdown.js
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\js\countdown.js
+Content Type: application/javascript
+
+Uri: https://optechanimation1.netlify.app/assets/js/faq.js
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\js\faq.js
+Content Type: application/javascript
+
+Uri: https://optechanimation1.netlify.app/assets/js/isotope.pkgd.min.js
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\js\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://optechanimation1.netlify.app/assets/js/jquery-3.7.1.min.js
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\js\jquery-3.7.1.min.js
+Content Type: application/javascript
+
+Uri: https://optechanimation1.netlify.app/assets/js/jquery.magnific-popup.min.js
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://optechanimation1.netlify.app/assets/js/menu/menu.js
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\js\menu\menu.js
+Content Type: application/javascript
+
+Uri: https://optechanimation1.netlify.app/assets/js/product-increment.js
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\js\product-increment.js
+Content Type: application/javascript
+
+Uri: https://optechanimation1.netlify.app/assets/js/skillbar.js
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\js\skillbar.js
+Content Type: application/javascript
+
+Uri: https://optechanimation1.netlify.app/assets/js/slick-animation.js
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\js\slick-animation.js
+Content Type: application/javascript
+
+Uri: https://optechanimation1.netlify.app/assets/js/slick-animation.min.js
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\js\slick-animation.min.js
+Content Type: application/javascript
+
+Uri: https://optechanimation1.netlify.app/assets/js/slick.js
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\js\slick.js
+Content Type: application/javascript
+
+Uri: https://optechanimation1.netlify.app/assets/js/tabs-slider.js
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\js\tabs-slider.js
+Content Type: application/javascript
+
+Uri: https://optechanimation1.netlify.app/assets/js/top-to-bottom.js
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\js\top-to-bottom.js
+Content Type: application/javascript
+
+Uri: https://optechanimation1.netlify.app/blog
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\blog.html
+Content Type: text/html
+
+Uri: https://optechanimation1.netlify.app/blog-grid
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\blog-grid.html
+Content Type: text/html
+
+Uri: https://optechanimation1.netlify.app/checkout
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\checkout.html
+Content Type: text/html
+
+Uri: https://optechanimation1.netlify.app/contact-us
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\contact-us.html
+Content Type: text/html
+
+Uri: https://optechanimation1.netlify.app/errors-404
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\errors-404.html
+Content Type: text/html
+
+Uri: https://optechanimation1.netlify.app/faq
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\faq.html
+Content Type: text/html
+
+Uri: https://optechanimation1.netlify.app/index-02
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\index-02.html
+Content Type: text/html
+
+Uri: https://optechanimation1.netlify.app/index-03
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\index-03.html
+Content Type: text/html
+
+Uri: https://optechanimation1.netlify.app/index-04
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\index-04.html
+Content Type: text/html
+
+Uri: https://optechanimation1.netlify.app/index-05
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\index-05.html
+Content Type: text/html
+
+Uri: https://optechanimation1.netlify.app/index-06
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\index-06.html
+Content Type: text/html
+
+Uri: https://optechanimation1.netlify.app/index-07
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\index-07.html
+Content Type: text/html
+
+Uri: https://optechanimation1.netlify.app/index-08
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\index-08.html
+Content Type: text/html
+
+Uri: https://optechanimation1.netlify.app/my-cart
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\my-cart.html
+Content Type: text/html
+
+Uri: https://optechanimation1.netlify.app/portfolio-01
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\portfolio-01.html
+Content Type: text/html
+
+Uri: https://optechanimation1.netlify.app/portfolio-02
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\portfolio-02.html
+Content Type: text/html
+
+Uri: https://optechanimation1.netlify.app/pricing
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\pricing.html
+Content Type: text/html
+
+Uri: https://optechanimation1.netlify.app/service
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\service.html
+Content Type: text/html
+
+Uri: https://optechanimation1.netlify.app/shop
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\shop.html
+Content Type: text/html
+
+Uri: https://optechanimation1.netlify.app/single-blog
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\single-blog.html
+Content Type: text/html
+
+Uri: https://optechanimation1.netlify.app/single-portfolio
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\single-portfolio.html
+Content Type: text/html
+
+Uri: https://optechanimation1.netlify.app/single-service
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\single-service.html
+Content Type: text/html
+
+Uri: https://optechanimation1.netlify.app/single-shop
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\single-shop.html
+Content Type: text/html
+
+Uri: https://optechanimation1.netlify.app/single-team
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\single-team.html
+Content Type: text/html
+
+Uri: https://optechanimation1.netlify.app/team
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\team.html
+Content Type: text/html
+
+Uri: https://optechanimation1.netlify.app/testimonial
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\testimonial.html
+Content Type: text/html
+
