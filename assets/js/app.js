@@ -411,14 +411,14 @@
   if (google_map.is_exist()) {
     var init = function init() {
       var mapOptions = {
-        zoom: 11,
+        zoom: 19,
         scrollwheel: false,
         navigationControl: false,
         mapTypeControl: false,
         scaleControl: false,
         draggable: true,
         disableDefaultUI: true,
-        center: new google.maps.LatLng(40.6700, -73.9400),
+        center: new google.maps.LatLng(25.143336, 75.8247485),
         styles: [{
           "featureType": "landscape.man_made",
           "elementType": "geometry",
@@ -514,7 +514,7 @@
       var mapElement = document.getElementById('map');
       var map = new google.maps.Map(mapElement, mapOptions);
       var marker = new google.maps.Marker({
-        position: new google.maps.LatLng(40.6700, -73.9400),
+        position: new google.maps.LatLng(25.143336, 75.8247485),
         map: map,
         // icon: 'assets/images/all-img/contact/map.png',
         title: 'optech'

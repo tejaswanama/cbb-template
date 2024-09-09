@@ -2802,7 +2802,7 @@ h1.post__title {
 }
 @media (max-width: 767px) {
     .optech-hero-section {
-        padding: 200px 0 100px;
+        padding: 100px 0 100px;
     }
 }
 .optech-hero-content h5 {
@@ -3178,7 +3178,7 @@ h1.post__title {
 }
 @media (max-width: 991px) {
     .optech-hero-section8 {
-        padding: 200px 0 100px;
+        padding: 100px 0 100px;
     }
 }
 .optech-counter-wrap {
@@ -5788,7 +5788,7 @@ span.total-amount {
     position: relative;
 }
 .optech-section-padding {
-    padding: 130px 0;
+    padding: 80px 0 60px;
 }
 @media (max-width: 991px) {
     .optech-section-padding {
@@ -6473,7 +6473,7 @@ button#optech-main-form-btn {
     padding-bottom: 20px;
     margin-bottom: 15px;
     display: flex;
-    gap: 80px;
+    gap: 59px;
     flex-wrap: wrap;
     border-bottom: 1px solid var(--light-color1);
 }

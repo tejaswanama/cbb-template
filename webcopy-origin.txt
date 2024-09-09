@@ -438,8 +438,8 @@ Uri: https://optechanimation1.netlify.app/assets/images/logo/logo-dark.svg
 File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\logo\logo-dark.svg
 Content Type: image/svg+xml
 
-Uri: https://optechanimation1.netlify.app/assets/images/logo/logo-white.svg
-File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\logo\logo-white.svg
+Uri: https://optechanimation1.netlify.app/assets/images/logo/header.png
+File Name: C:\Users\user\Downloads\Optin\optechanimation1.netlify.app\assets\images\logo\header.png
 Content Type: image/svg+xml
 
 Uri: https://optechanimation1.netlify.app/assets/images/p1/p1.png
